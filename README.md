@@ -1,5 +1,4 @@
-# beyond-pain-node
-### 성취는 고통 너머에 있다.
+## 성취는 고통 너머에 있다.
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
